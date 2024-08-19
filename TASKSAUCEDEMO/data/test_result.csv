@@ -1,0 +1,6 @@
+Test ID,Username,Password,Test Result,Date,Time,TesterName
+1,Admin,admin123,Passed,2024-08-19,18:34:58,Sowndharya
+2,Sowndharya,admin456,Failed,2024-08-19,18:35:10,Sowndharya
+3,John,admin789,Failed,2024-08-19,18:35:22,Sowndharya
+4,Alice,admin900,Failed,2024-08-19,18:35:30,Sowndharya
+5,Aishu,admin123,Failed,2024-08-19,18:35:38,Sowndharya
